@@ -6,8 +6,8 @@ else:
     print("Take an umbrella")
 
 #Task 2: Your Mood
-input("How are you feeling today?")
-if input =="happy":
+emotion = input("How are you feeling today?")
+if emotion == "happy":
     print("Thats great to hear!")
-if input == "sad":
+else:
     print("I hope your day gets better!")
