@@ -7,7 +7,7 @@ else:
 
 #Task 2: Your Mood
 input("How are you feeling today?")
-if (input) =="happy":
+if input =="happy":
     print("Thats great to hear!")
-if (input) == "sad":
+if input == "sad":
     print("I hope your day gets better!")
